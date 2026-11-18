@@ -1,0 +1,11 @@
+{
+  "name": "helloworld-yangjingren",
+  "version": "1.0.0",
+  "description": "Hello World 网站，显示服务器当前时间",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "yangjingren",
+  "license": "MIT"
+}
